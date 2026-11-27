@@ -88,7 +88,7 @@ A web-based maintenance management application designed to help users report and
 - Developed dashboard features for managing maintenance requests.
 - Integrated MongoDB for storing user and maintenance data.
 
-[[Live Demo]([url](https://smat-fix.vercel.app/))](YOUR_SMART_FIX_LINK) · [GitHub Repository](YOUR_SMART_FIX_GITHUB_LINK)
+([live demo](https://smat-fix.vercel.app/)](YOUR_SMART_FIX_LINK) · [GitHub Repository](YOUR_SMART_FIX_GITHUB_LINK)
 
 </td>
 </tr>
