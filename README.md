@@ -12,8 +12,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saraswathidevi17032006-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saraswathi-devi-8115903a0)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraswathidevip0@gmail.com)
 
 </div>
@@ -88,7 +88,7 @@ A web-based maintenance management application designed to help users report and
 - Developed dashboard features for managing maintenance requests.
 - Integrated MongoDB for storing user and maintenance data.
 
-[live demo](https://smat-fix.vercel.app/) · [GitHub Repository](YOUR_SMART_FIX_GITHUB_LINK)
+[live demo](https://smat-fix.vercel.app/) · [GitHub Repository](https://github.com/saraswathidevi17032006-ux/Smat-Fix)
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ A simple web application to manage and organize daily tasks.
 - Update existing tasks.
 - Delete completed or unnecessary tasks.
 - 
-  [Live Demo](https://todo-list-brown-kappa-uowj58lyff.vercel.app/) · [GitHub Repository](YOUR_TODO_GITHUB_LINK)
+  [Live Demo](https://todo-list-brown-kappa-uowj58lyff.vercel.app/) · [GitHub Repository](https://github.com/saraswathidevi17032006-ux/Todo_list)
 
 </td>
 </tr>
@@ -118,7 +118,7 @@ A web-based food delivery interface designed with an attractive and user-friendl
 - Created easy navigation for users.
 - Developed an attractive user interface.
 - 
-[Live Demo](https://food-website-zc5y.onrender.com/) · [GitHub Repository](YOUR_FOOD_GITHUB_LINK)
+[Live Demo](https://food-website-zc5y.onrender.com/) · [GitHub Repository](https://github.com/saraswathidevi17032006-ux/Food_Website)
 
 </td>
 </tr>
