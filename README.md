@@ -88,7 +88,7 @@ A web-based maintenance management application designed to help users report and
 - Developed dashboard features for managing maintenance requests.
 - Integrated MongoDB for storing user and maintenance data.
 
-[Live Demo](YOUR_SMART_FIX_LINK) · [GitHub Repository](YOUR_SMART_FIX_GITHUB_LINK)
+[[Live Demo]([url](https://smat-fix.vercel.app/))](YOUR_SMART_FIX_LINK) · [GitHub Repository](YOUR_SMART_FIX_GITHUB_LINK)
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ A simple web application to manage and organize daily tasks.
 - Update existing tasks.
 - Delete completed or unnecessary tasks.
 
-[Live Demo](YOUR_TODO_LINK) · [GitHub Repository](YOUR_TODO_GITHUB_LINK)
+[[Live Demo]([url](https://todo-list-brown-kappa-uowj58lyff.vercel.app/)](YOUR_TODO_LINK) · [GitHub Repository](YOUR_TODO_GITHUB_LINK)
 
 </td>
 </tr>
@@ -118,7 +118,7 @@ A web-based food delivery interface designed with an attractive and user-friendl
 - Created easy navigation for users.
 - Developed an attractive user interface.
 
-[Live Demo](YOUR_FOOD_LINK) · [GitHub Repository](YOUR_FOOD_GITHUB_LINK)
+[[Live Demo]([url](https://food-website-zc5y.onrender.com/))](YOUR_FOOD_LINK) · [GitHub Repository](YOUR_FOOD_GITHUB_LINK)
 
 </td>
 </tr>
