@@ -102,6 +102,7 @@ A simple web application to manage and organize daily tasks.
 - Add and view daily tasks.
 - Update existing tasks.
 - Delete completed or unnecessary tasks.
+- 
   [Live Demo](https://todo-list-brown-kappa-uowj58lyff.vercel.app/) · [GitHub Repository](YOUR_TODO_GITHUB_LINK)
 
 </td>
@@ -116,6 +117,7 @@ A web-based food delivery interface designed with an attractive and user-friendl
 - Designed food listing sections.
 - Created easy navigation for users.
 - Developed an attractive user interface.
+- 
 [Live Demo](https://food-website-zc5y.onrender.com/) · [GitHub Repository](YOUR_FOOD_GITHUB_LINK)
 
 </td>
