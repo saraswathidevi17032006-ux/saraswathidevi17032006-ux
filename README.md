@@ -160,17 +160,6 @@ To become a successful Software Engineer in a leading IT company by continuously
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
 
 ### 🤝 Connect With Me
 
